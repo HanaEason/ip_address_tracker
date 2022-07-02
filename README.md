@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://hanaeason.github.io/ip_address_tracker/]
+- Live Site URL: [IP Address Tracker](https://hanaeason.github.io/ip_address_tracker/)
 
 ## My process
 
